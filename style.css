@@ -1,7 +1,23 @@
+:root {
+  color-scheme: dark;
+}
+
 body {
   max-width: 600px;
   margin: auto;
   padding: 20px;
+  color: #ccc;
+  background-color: #054863;
+}
+
+h1,
+h2,
+h3 {
+  color: orange;
+}
+
+a {
+  color: #f16c49;
 }
 
 img {
