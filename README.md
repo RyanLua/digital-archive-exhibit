@@ -4,12 +4,8 @@ In its over 50 years, *The Great Gatsby* has survived the test of time as an Ame
 
 ## Understanding *The Great Gatsby*
 
-<figure>
-  <img width="300px" src="assets/the-great-gatsby.avif" alt="The front dust jacket art with title against a dark sky. Beneath the title are lips and two eyes, looming over a city." />
-  <figcaption>
-    <i>The Great Gatsby</i> by F. Scott Fitzgerald (1925)
-  </figcaption>
-</figure>
+###### *The Great Gatsby* by F. Scott Fitzgerald (1925)
+![The front dust jacket art with title against a dark sky. Beneath the title are lips and two eyes, looming over a city.](assets/the-great-gatsby.avif)
 
 Before talking about the Harlem Renaissance, we need to understand *The Great Gatsby.* The book’s author, [F. Scott Fitzgerald](https://en.wikipedia.org/wiki/F._Scott_Fitzgerald), is known for focusing on wealth, class struggles, and the idea of the American Dream and it is no different in this book. The main character, Jay Gatsby, works hard to become rich and win back his lost love, Daisy Buchanan. However, his dream is based on money and status, and in the end, he realizes that wealth does not bring true happiness or acceptance. Gatsby in the pursuit of his love, loses everything. The novel criticizes the idea that money alone can lead to success, but it mostly tells the story of wealthy white characters. While it does portray an accurate and believable life of the elite, it does not explore how people from different backgrounds, especially African Americans, experienced the American Dream during this time.
 
@@ -36,16 +32,29 @@ Before talking about the Harlem Renaissance, we need to understand *The Great Ga
   </blockquote>
 </fieldset>
 
+###### *Harlem* by Langston Hughes (1951)
+> What happens to a dream deferred?
+>   Does it dry up
+>   like a raisin in the sun?
+>   Or fester like a sore—
+>   And then run?
+>   Does it stink like rotten meat?
+>   Or crust and sugar over—
+>   like a syrupy sweet?
+>
+>   Maybe it just sags
+>   like a heavy load.
+
+>   *Or does it explode*
+
 The poem uses images like a “raisin in the sun” (something dried up and wasted) and “rotten meat” (something spoiled) to show how delaying dreams can lead to sadness, frustration, and anger. Hughes suggests that denying African Americans their dreams due to prejudice is harmful and could lead to bigger problems (“Or does it explode?”). This is vastly different with Gatsby’s dream, which was possible but ultimately unfulfilling. For many Black Americans in the 1920s, systemic racism made even starting the dream difficult.
 
 ## Songs of Protest and Peace
 
 Music was a important factor to the Harlem Renaissance. While jazz celebrated Black culture, other songs directly addressed the harsh realities of racism. “Strange Fruit” by [Billie Holiday](https://en.wikipedia.org/wiki/Billie_Holiday) is a powerful protest song against the brutal lynching of Black Americans. The song was written as a response to racial violence in the South.
 
-<figure>
-  <figcaption>“Strange Fruit” by Billie Holiday (1939)</figcaption>
-  <audio controls src="assets/strange-fruit.mp3"></audio>
-</figure>
+###### “Strange Fruit” by Billie Holiday (1939)
+https://github.com/RyanLua/digital-archive-exhibit/blob/main/assets/strange-fruit.mp3
 
 The lyrics describe “Black bodies swinging” from trees, showing the horror of lynching. The “strange fruit” is the bodies of lynched victims hanging from trees. The song exposes the reality that racism made the American Dream impossible for many Black people. “Strange Fruit” would later become an anthem for the [Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_rights_movement), proving that progress required ending racial violence.
 
@@ -53,12 +62,8 @@ The lyrics describe “Black bodies swinging” from trees, showing the horror o
 
 Despite the huge challenges, the Harlem Renaissance was also a time of Black achievement and pride. Photographer [James Van Der Zee](https://en.wikipedia.org/wiki/James_Van_Der_Zee), it shows Black success and dignity during the Harlem Renaissance. The photo shows a well-dressed Black couple standing in front of a luxury car, symbolizing success.
 
-<figure>
-  <img width="500px" src="assets/couple-in-raccoon-coats.avif" alt="Two people in fur coats stand beside a vintage car, with one person in the driver&#39;s seat and the other standing outside. The background shows a row of brownstone buildings with stoops." />
-  <figcaption>
-    Couple in Raccoon Coats by James Van Der Zee (1932)
-  </figcaption>
-</figure>
+##### Couple in Raccoon Coats by James Van Der Zee (1932)
+![Two people in fur coats stand beside a vintage car, with one person in the driver's seat and the other standing outside. The background shows a row of brownstone buildings with stoops.](assets/couple-in-raccoon-coats.avif)
 
 Despite racism, some African Americans found ways to achieve wealth and status. The photograph challenges stereotypes and shows that Black people were creating their own version of the American Dream.
 
@@ -66,23 +71,22 @@ Despite racism, some African Americans found ways to achieve wealth and status. 
 
 Another important writer of the Harlem Renaissance was [Claude McKay](https://en.wikipedia.org/wiki/Claude_McKay). His poem *The Barrier* describes how racism prevents progress and personal relationships. McKay often wrote about racial injustice and the struggles of being Black in America.
 
-<fieldset>
-  <legend><i>The Barrier</i> by Claude McKay (1922)</legend>
-  I must not gaze at them although<br />
-  Your eyes are dawning day;<br />
-  I must not watch you as you go<br />
-  Your sun-illumined way;<br />
-  <br />
-  I hear but I must never heed<br />
-  The fascinating note,<br />
-  Which, fluting like a river reed,<br />
-  Comes from your trembling throat;<br />
-  <br />
-  I must not see upon your face<br />
-  Love’s softly glowing spark;<br />
-  For there’s the barrier of race,<br />
-  You’re fair and I am dark.<br />
-</fieldset>
+###### *The Barrier* by Claude McKay (1922)
+> I must not gaze at them although
+> Your eyes are dawning day;
+> I must not watch you as you go
+> Your sun-illumined way;
+>
+> I hear but I must never heed
+> The fascinating note,
+> Which, fluting like a river reed,
+> Comes from your trembling throat;
+>
+> I must not see upon your face
+> Love’s softly glowing spark;
+> For there’s the barrier of race,
+> You’re fair and I am dark.
+
 
 The poem’s lines about racial separation, like “You’re fair and I am dark,” highlight how racism divides people. The poem shows how racism not only affects careers and rights but also personal connections and emotions. For African Americans, success wasn’t just about money, like Gatsby’s struggles with old vs. new wealth, it was about breaking down racial barriers in all parts of life.
 
