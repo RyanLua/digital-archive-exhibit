@@ -13,25 +13,6 @@ Before talking about the Harlem Renaissance, we need to understand *The Great Ga
 
 [Langston Hughes](https://en.wikipedia.org/wiki/Langston_Hughes) was a poet during the Harlem Renaissance. This cultural movement aimed to celebrate Black life and protest injustice. In his poem *Harlem*, Hughes writes about the pain of having dreams put on hold because of race.
 
-<fieldset>
-  <legend><i>Harlem</i> by Langston Hughes (1951)</legend>
-  What happens to a dream deferred?
-  <blockquote>
-    Does it dry up<br />
-    like a raisin in the sun?<br />
-    Or fester like a sore—<br />
-    And then run?<br />
-    Does it stink like rotten meat?<br />
-    Or crust and sugar over—<br />
-    like a syrupy sweet?<br />
-    <br />
-    Maybe it just sags<br />
-    like a heavy load.<br />
-    <br />
-    <i>Or does it explode</i>
-  </blockquote>
-</fieldset>
-
 ###### *Harlem* by Langston Hughes (1951)
 > What happens to a dream deferred?
 >   Does it dry up
@@ -54,7 +35,7 @@ The poem uses images like a “raisin in the sun” (something dried up and wast
 Music was a important factor to the Harlem Renaissance. While jazz celebrated Black culture, other songs directly addressed the harsh realities of racism. “Strange Fruit” by [Billie Holiday](https://en.wikipedia.org/wiki/Billie_Holiday) is a powerful protest song against the brutal lynching of Black Americans. The song was written as a response to racial violence in the South.
 
 ###### “Strange Fruit” by Billie Holiday (1939)
-https://github.com/RyanLua/digital-archive-exhibit/blob/main/assets/strange-fruit.mp3
+https://github.com/user-attachments/assets/18b575ad-9a3b-43bb-ab6f-118519f277df
 
 The lyrics describe “Black bodies swinging” from trees, showing the horror of lynching. The “strange fruit” is the bodies of lynched victims hanging from trees. The song exposes the reality that racism made the American Dream impossible for many Black people. “Strange Fruit” would later become an anthem for the [Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_rights_movement), proving that progress required ending racial violence.
 
@@ -62,7 +43,7 @@ The lyrics describe “Black bodies swinging” from trees, showing the horror o
 
 Despite the huge challenges, the Harlem Renaissance was also a time of Black achievement and pride. Photographer [James Van Der Zee](https://en.wikipedia.org/wiki/James_Van_Der_Zee), it shows Black success and dignity during the Harlem Renaissance. The photo shows a well-dressed Black couple standing in front of a luxury car, symbolizing success.
 
-##### Couple in Raccoon Coats by James Van Der Zee (1932)
+###### Couple in Raccoon Coats by James Van Der Zee (1932)
 ![Two people in fur coats stand beside a vintage car, with one person in the driver's seat and the other standing outside. The background shows a row of brownstone buildings with stoops.](assets/couple-in-raccoon-coats.avif)
 
 Despite racism, some African Americans found ways to achieve wealth and status. The photograph challenges stereotypes and shows that Black people were creating their own version of the American Dream.
