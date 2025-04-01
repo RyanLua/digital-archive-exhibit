@@ -15,18 +15,19 @@ Before talking about the Harlem Renaissance, we need to understand *The Great Ga
 
 ###### *Harlem* by Langston Hughes (1951)
 > What happens to a dream deferred?
->   Does it dry up
->   like a raisin in the sun?
->   Or fester like a sore—
->   And then run?
->   Does it stink like rotten meat?
->   Or crust and sugar over—
->   like a syrupy sweet?
 >
->   Maybe it just sags
->   like a heavy load.
+> Does it dry up
+> like a raisin in the sun?
+> Or fester like a sore—
+> And then run?
+> Does it stink like rotten meat?
+> Or crust and sugar over—
+> like a syrupy sweet?
 >
->   *Or does it explode*
+> Maybe it just sags
+> like a heavy load.
+>
+> *Or does it explode*
 
 The poem uses images like a “raisin in the sun” (something dried up and wasted) and “rotten meat” (something spoiled) to show how delaying dreams can lead to sadness, frustration, and anger. Hughes suggests that denying African Americans their dreams due to prejudice is harmful and could lead to bigger problems (“Or does it explode?”). This is vastly different with Gatsby’s dream, which was possible but ultimately unfulfilling. For many Black Americans in the 1920s, systemic racism made even starting the dream difficult.
 
