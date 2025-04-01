@@ -5,6 +5,7 @@ In its over 50 years, *The Great Gatsby* has survived the test of time as an Ame
 ## Understanding *The Great Gatsby*
 
 ###### *The Great Gatsby* by F. Scott Fitzgerald (1925)
+
 ![The front dust jacket art with title against a dark sky. Beneath the title are lips and two eyes, looming over a city.](assets/the-great-gatsby.avif)
 
 Before talking about the Harlem Renaissance, we need to understand *The Great Gatsby.* The book’s author, [F. Scott Fitzgerald](https://en.wikipedia.org/wiki/F._Scott_Fitzgerald), is known for focusing on wealth, class struggles, and the idea of the American Dream and it is no different in this book. The main character, Jay Gatsby, works hard to become rich and win back his lost love, Daisy Buchanan. However, his dream is based on money and status, and in the end, he realizes that wealth does not bring true happiness or acceptance. Gatsby in the pursuit of his love, loses everything. The novel criticizes the idea that money alone can lead to success, but it mostly tells the story of wealthy white characters. While it does portray an accurate and believable life of the elite, it does not explore how people from different backgrounds, especially African Americans, experienced the American Dream during this time.
@@ -14,8 +15,9 @@ Before talking about the Harlem Renaissance, we need to understand *The Great Ga
 [Langston Hughes](https://en.wikipedia.org/wiki/Langston_Hughes) was a poet during the Harlem Renaissance. This cultural movement aimed to celebrate Black life and protest injustice. In his poem *Harlem*, Hughes writes about the pain of having dreams put on hold because of race.
 
 ###### *Harlem* by Langston Hughes (1951)
+
 > What happens to a dream deferred?
->
+> 
 > Does it dry up
 > like a raisin in the sun?
 > Or fester like a sore—
@@ -23,10 +25,10 @@ Before talking about the Harlem Renaissance, we need to understand *The Great Ga
 > Does it stink like rotten meat?
 > Or crust and sugar over—
 > like a syrupy sweet?
->
+> 
 > Maybe it just sags
 > like a heavy load.
->
+> 
 > *Or does it explode*
 
 The poem uses images like a “raisin in the sun” (something dried up and wasted) and “rotten meat” (something spoiled) to show how delaying dreams can lead to sadness, frustration, and anger. Hughes suggests that denying African Americans their dreams due to prejudice is harmful and could lead to bigger problems (“Or does it explode?”). This is vastly different with Gatsby’s dream, which was possible but ultimately unfulfilling. For many Black Americans in the 1920s, systemic racism made even starting the dream difficult.
@@ -36,6 +38,7 @@ The poem uses images like a “raisin in the sun” (something dried up and wast
 Music was a important factor to the Harlem Renaissance. While jazz celebrated Black culture, other songs directly addressed the harsh realities of racism. “Strange Fruit” by [Billie Holiday](https://en.wikipedia.org/wiki/Billie_Holiday) is a powerful protest song against the brutal lynching of Black Americans. The song was written as a response to racial violence in the South.
 
 ###### “Strange Fruit” by Billie Holiday (1939)
+
 https://github.com/user-attachments/assets/18b575ad-9a3b-43bb-ab6f-118519f277df
 
 The lyrics describe “Black bodies swinging” from trees, showing the horror of lynching. The “strange fruit” is the bodies of lynched victims hanging from trees. The song exposes the reality that racism made the American Dream impossible for many Black people. “Strange Fruit” would later become an anthem for the [Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_rights_movement), proving that progress required ending racial violence.
@@ -45,6 +48,7 @@ The lyrics describe “Black bodies swinging” from trees, showing the horror o
 Despite the huge challenges, the Harlem Renaissance was also a time of Black achievement and pride. Photographer [James Van Der Zee](https://en.wikipedia.org/wiki/James_Van_Der_Zee), it shows Black success and dignity during the Harlem Renaissance. The photo shows a well-dressed Black couple standing in front of a luxury car, symbolizing success.
 
 ###### Couple in Raccoon Coats by James Van Der Zee (1932)
+
 ![Two people in fur coats stand beside a vintage car, with one person in the driver's seat and the other standing outside. The background shows a row of brownstone buildings with stoops.](assets/couple-in-raccoon-coats.avif)
 
 Despite racism, some African Americans found ways to achieve wealth and status. The photograph challenges stereotypes and shows that Black people were creating their own version of the American Dream.
@@ -54,16 +58,17 @@ Despite racism, some African Americans found ways to achieve wealth and status. 
 Another important writer of the Harlem Renaissance was [Claude McKay](https://en.wikipedia.org/wiki/Claude_McKay). His poem *The Barrier* describes how racism prevents progress and personal relationships. McKay often wrote about racial injustice and the struggles of being Black in America.
 
 ###### *The Barrier* by Claude McKay (1922)
+
 > I must not gaze at them although
 > Your eyes are dawning day;
 > I must not watch you as you go
 > Your sun-illumined way;
->
+> 
 > I hear but I must never heed
 > The fascinating note,
 > Which, fluting like a river reed,
 > Comes from your trembling throat;
->
+> 
 > I must not see upon your face
 > Love’s softly glowing spark;
 > For there’s the barrier of race,
