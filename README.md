@@ -48,7 +48,7 @@ Music was a important factor to the Harlem Renaissance. While jazz celebrated Bl
 
 ###### “Strange Fruit” by Billie Holiday (1939)
 
-<audio controls="" src="https://ryanlua.github.io/digital-archive-exhibit/assets/strange-fruit.mp3"></audio>
+https://ryanlua.github.io/digital-archive-exhibit/assets/strange-fruit.mp4
 
 The lyrics describe “Black bodies swinging” from trees, showing the horror of lynching. The “strange fruit” is the bodies of lynched victims hanging from trees. The song exposes the reality that racism made the American Dream not just impossible for many Black people, but dangerous and could cost Black Americans their lives. Instead of the safe and prosperous life that Gatsby and Daisy lived, Black Americans were living in fear of their lives. “Strange Fruit” became an anthem for the [Civil Rights Movement], proving that progress required ending racial violence.
 
